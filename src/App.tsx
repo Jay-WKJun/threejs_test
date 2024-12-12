@@ -35,9 +35,6 @@ function Page() {
       // )
       // scene.add(cube)
 
-      const axesHelper = new THREE.AxesHelper( 5 );
-      scene.add( axesHelper );
-
       /**
        * Sizes
        */
